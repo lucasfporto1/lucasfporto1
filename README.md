@@ -1,4 +1,35 @@
-## Hi there 👋
+# 👋 Hi, i am Lucas!
+
+### 💻 Full Stack Developer passionate about technology and innovation.
+
+<br>
+
+Atualmente tenho experiência nas seguintes tecnologias:
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github,mysql,azure)](https://skillicons.dev)
+
+<br>
+
+---
+
+### 🚀 About me:
+- 👨‍💻 Always learning new technologies and improving skills.
+- 🎯 Focus on developing modern and high-performance web applications.
+- 📚 Currently improving my knowledge in **JavaScript, **Node.js** and **React**.
+- 🤝 Open to collaborations and new challenges.
+---
+
+### 📫 How to find me:
+- [LinkedIn](https://www.linkedin.com/in/lucas-porto-0b6843270/) <!-- (Depois você coloca o seu link real aqui) -->
+- [Email](mailto:lucasfportosilva@gmail.com)
+
+---
+
+### ⚡ Fun fact:
+> "Code is like humor. When you have to explain it, it’s bad."
+
 
 <!--
 **lucasfporto1/lucasfporto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
