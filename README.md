@@ -4,7 +4,7 @@
 
 <br>
 
-Atualmente tenho experiência nas seguintes tecnologias:
+I currently have experience in the following technologies:
 
 <br>
 
