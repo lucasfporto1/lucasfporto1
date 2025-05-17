@@ -10,8 +10,6 @@ I currently have experience in the following technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mysql,git,github,vscode)](https://skillicons.dev)
 
-<br>
-
 ---
 
 ### 🚀 About me:
