@@ -8,7 +8,7 @@ I currently have experience in the following technologies:
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mysql,postgres,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mysql,postgres,sequelize,git,github,npm,vscode)](https://skillicons.dev)
 
 ---
 
