@@ -17,7 +17,7 @@ I currently have experience in the following technologies:
 ### 🚀 About me:
 - 👨‍💻 Always learning new technologies and improving skills.
 - 🎯 Focus on developing modern and high-performance web applications.
-- 📚 Currently improving my knowledge in **JavaScript**, **Node.js** and **React**.
+- 📚 Currently improving my knowledge in **Node.js**, **Docker** and **AWS**.
 - 🤝 Open to collaborations and new challenges.
 ---
 
